@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Niall-J-Murray
+- 👋 Hi, I’m Niall Murray!
 - 👀 I’m interested in mostly Java, but also Python, HTML, CSS & JS.
 - 🌱 I’m currently learning full stack Java.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ..?
+- 📫 How to reach me: linkedin.com/in/niall-j-murray/
 
 <!---
 Niall-J-Murray/Niall-J-Murray is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
