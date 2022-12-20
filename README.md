@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Niall Murray!
+- 👋 Hi, I’m Niall!
 - 👀 I’m interested in mostly Java, but also Python, HTML, CSS & JS.
 - 🌱 I’m currently studying Coders Campus Full Stack Java Bootcamp.
 - 💞️ I’m looking to collaborate on ..?
