@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Niall!
 - 👀 I’m interested in mostly Java, but also Python, HTML, CSS & JS.
 - 🌱 I’m currently studying Coders Campus Full Stack Java Bootcamp.
-- 💞️ I’m looking to collaborate on ..?
+- 💞️ I’m looking to collaborate on projects for my portfolio.
 - 📫 How to reach me: linkedin.com/in/niall-j-murray/
 
 <!---
