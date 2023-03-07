@@ -1,10 +1,5 @@
 - 👋 Hi, I’m Niall!
-- 👀 I’m interested in mostly Java, but also Python, HTML, CSS & JS.
+- 👀 I’m interested in full stack Java, using Thymeleaf, Spring Boot & MySQL.
 - 🌱 I’m currently studying Coders Campus Full Stack Java Bootcamp.
 - 💞️ I’m looking to collaborate on projects for my portfolio.
 - 📫 How to reach me: linkedin.com/in/niall-j-murray/
-
-<!---
-Niall-J-Murray/Niall-J-Murray is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
