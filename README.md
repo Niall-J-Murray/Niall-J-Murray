@@ -1,10 +1,10 @@
   ## About Me:
 
-    </br>
+   </br>
 
-    ## Current Stack
+   ## Current Stack
 
-    <div style="display: inline_block"><br>
+   <div style="display: inline_block"><br>
         <p>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"
                 height="45" />
@@ -26,9 +26,9 @@
         </p>
     </div>
 
-    </br>
+   </br>
 
-    <div>
+   <div>
         <a href="https://github.com/Niall-J-Murray">
             <img align="center" height="170"
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niall-J-Murray&layout=compact&langs_count=16&theme=dracula" />
@@ -48,4 +48,4 @@
         </br>
         </br>
 
-    </div>
+   </div>
