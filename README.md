@@ -16,12 +16,9 @@
         </p>
   </div>
   <div>
-        <p>
-         ## Next to learn:
-          
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
-        </p>
-    </div>
+  ## Next to learn:
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
+   </div>
 
    </br>
 
