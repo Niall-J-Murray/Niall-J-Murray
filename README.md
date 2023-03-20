@@ -3,7 +3,7 @@
         Junior full stack Java developer based in Dublin, Ireland. </br>
         Experienced in building web apps using: Thymeleaf, Spring Boot & Spring Security, Hibernate, MySQL and
         Javascript.
-</header>
+    </header>
 
    <h2>Current Stacks:</h2>
 
@@ -25,13 +25,13 @@
     </div>
     </br>
     <h2>Next to learn:</h2>
-    <div>
+   <div>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50"
             height="50" />
     </div>
     </br>
 
-   <h2>Contact:</h2>
+    <h2>Contact:</h2>
    <div>
         <a href="https://www.linkedin.com/in/niall-j-murray/" target="_blank"><img
                 src="https://upload.wikimedia.org/wikipedia/commons/b/b1/LinkedIn_Logo_2013_%282%29.svg" width="100"
@@ -40,13 +40,14 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg"
                 width="50" height="50"></a>
         </br>
-   </div>
+    </div>
 
-  <div>
-       <a href="https://github.com/Niall-J-Murray">
-          <img align="center"
-               src="https://github-readme-stats.vercel.app/api?username=Niall-J-Murray&show_icons=true&theme=transparent&include_all_commits=true&count_private=true/>
-          <img align="center" height="170"
-               src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niall-J-Murray&layout=compact&langs_count=16theme=dark" />
+   <div>
+        <a href="https://github.com/Niall-J-Murray">
+            <img align="center"
+                src="https://github-readme-stats.vercel.app/api?username=Niall-J-Murray&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide=issues" />
+            <img align="center" height="170"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niall-J-Murray&layout=compact&langs_count=16theme=dark" />
         </a>
+
    </div>
