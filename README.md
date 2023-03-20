@@ -1,16 +1,10 @@
-## Hi, I am Niall! 
+## About Me: 
 </br>
 
- <div>
-  <a href="https://github.com/Niall-J-Murray">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niall-J-Murray&layout=compact&langs_count=16&theme=dracula"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Niall-J-Murray&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
-</div>
- 
  ## Skills
 <div style="display: inline_block"><br>
  
-  <img height="50" align="center" alt="Erica-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">        
+  <img height="50" align="center" alt="Erica-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       
   <img height="40" align="center" alt="Erica-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -21,6 +15,14 @@
 </div>
   
 </br>
+
+ <div>
+  <a href="https://github.com/Niall-J-Murray">
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niall-J-Murray&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Niall-J-Murray&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+</div>
+ 
+
 
 ## Contact 
 <div> 
