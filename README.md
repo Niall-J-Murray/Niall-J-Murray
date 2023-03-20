@@ -1,19 +1,20 @@
  <header>
- ## About Me:
+ <h1>About Me:</h1>
  </header>
    </br>
 
-   ## Current Stacks:
+<h2>Current Stacks:</h2>
 
    <div style="display: inline_block"><br>
         <p>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" />
+            
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="50" height="50" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" height="50"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50" height="50" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="50" height="50" />
+         
         </p>
   </div>
     </br>
@@ -32,7 +33,7 @@
                 src="https://github-readme-stats.vercel.app/api?username=Niall-J-Murray&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues" />
     </div>
 
-    ## Contact
+Contact:
 
     <div>
         <a href="https://www.linkedin.com/in/niall-j-murray/" target="_blank"><img
@@ -42,6 +43,4 @@
                 src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
                 target="_blank"></a>
         </br>
-        </br>
-
    </div>
