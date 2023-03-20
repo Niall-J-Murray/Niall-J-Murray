@@ -39,5 +39,5 @@
         <a href="mailto: niall_murray@outlook.com">
          <img src="https://icons8.com/icon/117562/microsoft-outlook-2019" target="_blank"></a>
         </br>
- <a target="_blank" href="https://icons8.com/icon/117562/microsoft-outlook-2019">Microsoft Outlook 2019</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+ <img src="https://icons8.com/icon/117562/microsoft-outlook-2019" target="_blank"></a>
    </div>
