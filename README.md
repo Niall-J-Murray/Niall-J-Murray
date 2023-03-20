@@ -16,11 +16,10 @@
         </p>
   </div>
     </br>
+    <h2>Next to learn:</h2>
   <div>
-  Next to learn:
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
-   </div>
-
+  </div>
    </br>
 
    <div>
@@ -30,9 +29,8 @@
             <img align="center"
                 src="https://github-readme-stats.vercel.app/api?username=Niall-J-Murray&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues" />
     </div>
-
-Contact:
-
+ 
+<h2>Contact:</h2>
     <div>
         <a href="https://www.linkedin.com/in/niall-j-murray/" target="_blank"><img
                 src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
