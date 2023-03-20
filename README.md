@@ -34,10 +34,8 @@
 <h2>Contact:</h2>
     <div>
         <a href="https://www.linkedin.com/in/niall-j-murray/" target="_blank"><img
-                src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-                target="_blank"></a>
+                src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" width="50" height="50"></a>
         <a href="mailto: niall_murray@outlook.com">
-         <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" target="_blank"></a>
+         <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" width="50" height="50"></a>
         </br>
- https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg
    </div>
