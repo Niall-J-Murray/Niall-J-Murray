@@ -1,5 +1,7 @@
  <header>
  <h1>About Me:</h1>
+   Junior full stack Java developer experinced in building web apps using: Thymeleaf, Spring Boot & Spring Secutrity, Hibernate, MySQL and Javascript.
+   Based in Dublin, Ireland.
  </header>
    </br>
 
@@ -18,7 +20,6 @@
     </br>
     <h2>Next to learn:</h2>
   <div>
-         
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="50"/>
   </div>
    </br>
