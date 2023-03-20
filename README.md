@@ -31,7 +31,7 @@
     </div>
     </br>
 
-    <h2>Contact:</h2>
+   <h2>Contact:</h2>
    <div>
         <a href="https://www.linkedin.com/in/niall-j-murray/" target="_blank"><img
                 src="https://upload.wikimedia.org/wikipedia/commons/b/b1/LinkedIn_Logo_2013_%282%29.svg" width="100"
