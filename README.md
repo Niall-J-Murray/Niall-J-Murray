@@ -32,7 +32,7 @@
     </br>
 
    <h2>Contact:</h2>
-    <div>
+   <div>
         <a href="https://www.linkedin.com/in/niall-j-murray/" target="_blank"><img
                 src="https://upload.wikimedia.org/wikipedia/commons/b/b1/LinkedIn_Logo_2013_%282%29.svg" width="100"
                 height="50"></a>
@@ -40,14 +40,13 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg"
                 width="50" height="50"></a>
         </br>
-    </div>
+   </div>
 
-   <div>
-        <a href="https://github.com/Niall-J-Murray">
-            <img align="center"
-                src="https://github-readme-stats.vercel.app/api?username=Niall-J-Murray&show_icons=true&theme=transparent&include_all_commits=true&count_private=true/>
-            <img align="center" height="170"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niall-J-Murray&layout=compact&langs_count=16theme=dark" />
+  <div>
+       <a href="https://github.com/Niall-J-Murray">
+          <img align="center"
+               src="https://github-readme-stats.vercel.app/api?username=Niall-J-Murray&show_icons=true&theme=transparent&include_all_commits=true&count_private=true/>
+          <img align="center" height="170"
+               src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niall-J-Murray&layout=compact&langs_count=16theme=dark" />
         </a>
-
-    </div>
+   </div>
