@@ -37,6 +37,6 @@
                 src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
                 target="_blank"></a>
         <a href="mailto: niall_murray@outlook.com">
-         <img src="https://icons8.com/icon/117562/microsoft-outlook-2019"></a>
+         <img src="https://icons8.com/icon/117562/microsoft-outlook-2019" target="_blank"></a>
         </br>
    </div>
