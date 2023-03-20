@@ -18,7 +18,8 @@
     </br>
     <h2>Next to learn:</h2>
   <div>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
+         
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="50"/>
   </div>
    </br>
 
@@ -35,8 +36,7 @@
         <a href="https://www.linkedin.com/in/niall-j-murray/" target="_blank"><img
                 src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
                 target="_blank"></a>
-        <a href="mailto: niall_murray@outlook.com"><img
-                src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
-                target="_blank"></a>
+        <a href="mailto: niall_murray@outlook.com">
+         <img src="https://icons8.com/icon/117562/microsoft-outlook-2019"></a>
         </br>
    </div>
