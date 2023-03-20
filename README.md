@@ -1,5 +1,6 @@
-  ## About Me:
-
+ <header>
+ ## About Me:
+ </header>
    </br>
 
    ## Current Stacks:
@@ -15,8 +16,9 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="50" height="50" />
         </p>
   </div>
+    </br>
   <div>
-  ## Next to learn:
+  Next to learn:
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
    </div>
 
