@@ -24,7 +24,7 @@
         </p>
     </div>
     </br>
-    <h2>Next to learn:</h2>
+    <h2>Learning:</h2>
    <div>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50"
             height="50" />
