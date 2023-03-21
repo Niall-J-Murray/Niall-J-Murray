@@ -49,8 +49,10 @@
             <img align="center" height="170"
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niall-J-Murray&layout=compact&langs_count=16theme=dark" />
         </a>
-
    </div>
+ 
    <div>
+ 
      [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niall-J-Murray)](https://github.com/anuraghazra/github-readme-stats)
+ 
    </div>
