@@ -1,7 +1,7 @@
  <header>
         <h1>About Me:</h1>
         Junior full stack Java developer based in Dublin, Ireland. </br>
-        Experienced in building web apps using: Thymeleaf, Spring Boot & Spring Security, Hibernate, MySQL and
+        Experienced in building web apps using: Thymeleaf, Spring Boot & Spring Security, Hibernate, SQL and
         Javascript.
     </header>
 
