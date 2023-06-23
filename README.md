@@ -41,7 +41,7 @@
                 width="50" height="50"></a>
         </br>
     </div>
-
+<!--
    <div>
         <a href="https://github.com/Niall-J-Murray">
             <img align="center"
@@ -50,12 +50,11 @@
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niall-J-Murray&layout=compact&langs_count=16theme=dark" />
         </a>
    </div>
- 
-<!--    <div>
+   -->
+ <!--   
+ <div>
   <img align="center"
                 src="https://github-readme-stats.vercel.app/api?username=Niall-J-Murray&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide=issues" />
- 
- 
       [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niall-J-Murray)](https://github.com/anuraghazra/github-readme-stats)
- 
-   </div>  -->
+ </div>  
+   -->
