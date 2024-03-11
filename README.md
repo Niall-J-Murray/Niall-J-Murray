@@ -41,7 +41,7 @@
             <img align="center"
                 src="https://github-readme-stats.vercel.app/api?username=Niall-J-Murray&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide=issues" />
             <img align="center" height="170"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niall-J-Murray&layout=compact&langs_count=16theme=dark" />
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niall-J-Murray" />
         </a>
    </div>
  
