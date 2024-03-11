@@ -36,7 +36,7 @@
         </br>
     </div>
 </br>
-<h2>Git Summary:</h2>
+<h2>GitHub Summary:</h2>
    <div>
         <a href="https://github.com/Niall-J-Murray">
             <img align="center"
