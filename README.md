@@ -1,7 +1,7 @@
  <header>
         <h1>About Me:</h1>
-        Junior full stack Java developer based in Dublin, Ireland. </br>
-        Experienced in building web apps using: Thymeleaf, Spring Boot & Spring Security, Hibernate, SQL and
+        Full stack Java developer based in Dublin, Ireland. </br>
+        Experienced in building web apps using: Thymeleaf,  React (Typescript), Spring Boot & Spring Security, Hibernate, SQL and
         Javascript.
     </header>
 
@@ -21,16 +21,12 @@
                 height="50" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"
                 height="50" />
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50"
+            height="50" />
         </p>
     </div>
     </br>
-    <h2>Learning:</h2>
-   <div>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50"
-            height="50" />
-    </div>
-    </br>
-
+    
    <h2>Contact:</h2>
    <div>
         <a href="https://www.linkedin.com/in/niall-j-murray/" target="_blank"><img
