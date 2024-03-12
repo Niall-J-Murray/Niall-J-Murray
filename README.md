@@ -24,7 +24,7 @@
         </p>
        <div>
                  <a href="https://github.com/Niall-J-Murray">
-            <img align="center" height="170"
+            <img align="center" height="200"
               src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niall-J-Murray&layout=compact&langs_count=16&theme=transparent"
              />
         </a>
