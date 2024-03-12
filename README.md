@@ -21,6 +21,11 @@
                 height="50" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"
                 height="50" />
+              <a href="https://github.com/Niall-J-Murray">
+            <img align="center" height="170"
+              src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niall-J-Murray&layout=compact&langs_count=16&theme=transparent"
+             />
+        </a>
         </p>
     </div>
     </br>
@@ -35,16 +40,13 @@
                 width="50" height="50"></a>
         </br>
     </div>
-</br>
+
+ <!--   
+ </br>
 <h2>GitHub Summary:</h2>
    <div>
-        <a href="https://github.com/Niall-J-Murray">
-            <img align="center" height="170"
-              src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niall-J-Murray&layout=compact&langs_count=16&theme=transparent"
-             />
-        </a>
+   
    </div>
- <!--   
  <div>
              <img align="center"
                 src="https://github-readme-stats.vercel.app/api?username=Niall-J-Murray&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide=issues" />
